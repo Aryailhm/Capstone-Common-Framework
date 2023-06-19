@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
  
   s.author = { "Arya" => "aryailham05@gmail.com" }
  
-  s.homepage = "https://github.com/aryailham/Modularization-common-module"
+  s.homepage = "https://github.com/Aryailhm/Capstone-Common-Framework"
  
   s.source = { 
-    :git => "https://github.com/aryailham/Modularization-common-module.git", 
+    :git => "https://github.com/Aryailhm/Capstone-Common-Framework.git", 
     :tag => "#{s.version}" 
   }
  
