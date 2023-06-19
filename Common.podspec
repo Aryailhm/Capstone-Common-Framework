@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #s.resources = "Common/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
   #s.dependency 'Alamofire'
   #s.dependency 'AlamofireImage'
-  #s.dependency 'RealmSwift'
+  #s.dependency 'Realm'
 
   s.swift_version = "5.1"
  
